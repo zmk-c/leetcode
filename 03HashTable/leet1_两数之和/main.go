@@ -51,9 +51,8 @@ func twoSum(nums []int, target int) []int {
 		another := target - num //与num和为target的另一个数
 		if anotherIndex, ok := mp[another]; ok {
 			return []int{anotherIndex, i}
-		} else {
-			mp[num] = i
 		}
+		mp[num] = i
 	}
 	return []int{}
 }
