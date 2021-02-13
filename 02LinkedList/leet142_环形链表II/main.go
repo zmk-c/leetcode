@@ -21,7 +21,7 @@ pos 的值为 -1 或者链表中的一个有效索引
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 */
 
-//Definition for singly-linked list.
+//ListNode Define
 type ListNode struct {
 	Val  int
 	Next *ListNode
