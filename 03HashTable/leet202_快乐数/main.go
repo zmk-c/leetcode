@@ -43,9 +43,9 @@ func isHappy(n int) bool {
 		//如果这个sum曾经出现过  则表明陷入死循环了  return false
 		if mp[sum] == true {
 			return false
-		} else {
-			mp[sum] = true
 		}
+		mp[sum] = true
+
 		n = sum
 	}
 }
