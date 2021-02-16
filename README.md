@@ -15,6 +15,13 @@
    - [[leetcode206——反转链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14390003.html)
    - [[leetcode142——环形链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14393976.html)
 3. 哈希表法
+   - [[哈希表的理论基础]](https://www.cnblogs.com/zmk-c/p/14396613.html)
+   - [[leetcode242——有效字母异同位]](https://www.cnblogs.com/zmk-c/p/14398019.html)
+   - [[leetcode383——赎金信]](https://www.cnblogs.com/zmk-c/p/14399460.html)
+   - [[leetcode349_两个数组的交集]](https://www.cnblogs.com/zmk-c/p/14401011.html)
+   - [[leetcode202——快乐数]](https://www.cnblogs.com/zmk-c/p/14403039.html)
+   - [[leetcode1——两数之和]](https://www.cnblogs.com/zmk-c/p/14404271.html)
+   - [[leetcode454——四数相加II]](https://www.cnblogs.com/zmk-c/p/14404279.html)
 4. 字符串
 5. 双指针法
 6. 栈与队列
