@@ -38,7 +38,6 @@ import (
 2.将每个单词反转*/
 func reverseWords(s string) string {
 	newS := removeExtraSpace(s)
-
 	words := strings.Split(newS, " ")
 
 	l := 0

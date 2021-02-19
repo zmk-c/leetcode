@@ -23,6 +23,12 @@
    - [[leetcode1——两数之和]](https://www.cnblogs.com/zmk-c/p/14404271.html)
    - [[leetcode454——四数相加II]](https://www.cnblogs.com/zmk-c/p/14404279.html)
 4. 字符串
+   - [[leetcode344——反转字符串]](https://www.cnblogs.com/zmk-c/p/14406933.html)
+   - [[leetcode541——反转字符串II（模拟）]](https://www.cnblogs.com/zmk-c/p/14406983.html)
+   - [[leetcode151——翻转字符串里的单词]](https://www.cnblogs.com/zmk-c/p/14407077.html)
+   - [[KMP算法]](https://www.cnblogs.com/zmk-c/p/14409513.html)
+   - [[leetcode28——实现strStr()（KMP）]](https://www.cnblogs.com/zmk-c/p/14411448.html)
+   - [[leetcode459——重复的子字符串（KMP）]](https://www.cnblogs.com/zmk-c/p/14416911.html)
 5. 双指针法
 6. 栈与队列
 7. 二叉树
