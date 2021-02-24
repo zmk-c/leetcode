@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"leetcode/04String/kmp"
+)
 
 /*
 题目459.重复的子字符串
@@ -20,23 +23,7 @@ import "fmt"
 输出: True
 解释: 可由子字符串 "abc" 重复四次构成。(或者子字符串 "abcabc" 重复两次构成。)
 */
-//构造前缀表
-func getNext(next []int, s string) {
-	//初始化
-	j := 0
-	next[0] = 0
-	for i := 1; i < len(s); i++ {
-		//前后缀不相同的情况
-		for j > 0 && s[i] != s[j] {
-			j = next[j-1] //回退
-		}
-		//前后缀相同的情况
-		if s[i] == s[j] {
-			j++
-		}
-		next[i] = j
-	}
-}
+//构造前缀表 调用kmp包中的getNext方法
 
 func repeatedSubstringPattern(s string) bool {
 	l := len(s)
@@ -44,7 +31,7 @@ func repeatedSubstringPattern(s string) bool {
 		return false
 	}
 	next := make([]int, l)
-	getNext(next, s)
+	kmp.GetNext(next, s)
 
 	//如果字符串的长度-最长相等前后缀长度  能被字符串长度除尽  则说明其子串能够构成该字符串
 	//且最长相等前后缀长度不为0
