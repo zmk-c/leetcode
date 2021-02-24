@@ -30,6 +30,11 @@
    - [[leetcode28——实现strStr()（KMP）]](https://www.cnblogs.com/zmk-c/p/14411448.html)
    - [[leetcode459——重复的子字符串（KMP）]](https://www.cnblogs.com/zmk-c/p/14416911.html)
 5. 双指针法
+   - [数组：[leetcode27——移除元素（双指针法）]](https://www.cnblogs.com/zmk-c/p/14370030.html)
+   - [数组：[leetcode209——长度最小的子数组（双指针法）]](https://www.cnblogs.com/zmk-c/p/14373306.html)
+   - [链表：[leetcode206——反转链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14390003.html)
+   - [链表：[leetcode142——环形链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14393976.html)
+   - [字符串：[leetcode344——反转字符串（双指针法）]](https://www.cnblogs.com/zmk-c/p/14406933.html)
 6. 栈与队列
 7. 二叉树
 8. 回溯
