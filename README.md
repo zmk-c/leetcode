@@ -5,43 +5,55 @@
 下面是刷题顺序
 
 1. 数组
-   - [[leetcode35——搜索插入位置（二分法）]](https://www.cnblogs.com/zmk-c/p/14364877.html)
-   - [[leetcode27——移除元素（双指针法）]](https://www.cnblogs.com/zmk-c/p/14370030.html)
-   - [[leetcode209——长度最小的子数组（双指针法）]](https://www.cnblogs.com/zmk-c/p/14373306.html)
-   - [[leetcode59——螺旋矩阵II（模拟大法）]](https://www.cnblogs.com/zmk-c/p/14379352.html)
+   - [[35.搜索插入位置]](https://www.cnblogs.com/zmk-c/p/14364877.html)
+   - [[l27.移除元素]](https://www.cnblogs.com/zmk-c/p/14370030.html)
+   - [[209.长度最小的子数组]](https://www.cnblogs.com/zmk-c/p/14373306.html)
+   - [[l59.螺旋矩阵II]](https://www.cnblogs.com/zmk-c/p/14379352.html)
 2. 链表
-   - [[链表的理论基础]](https://www.cnblogs.com/zmk-c/p/14381423.html)
-   - [[leetcode203——移除链表元素（引入虚拟头节点）]](https://www.cnblogs.com/zmk-c/p/14386950.html)
-   - [[leetcode206——反转链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14390003.html)
-   - [[leetcode142——环形链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14393976.html)
+   - [[203.移除链表元素]](https://www.cnblogs.com/zmk-c/p/14386950.html)
+   - [[206.反转链表]](https://www.cnblogs.com/zmk-c/p/14390003.html)
+   - [[142.环形链表]](https://www.cnblogs.com/zmk-c/p/14393976.html)
 3. 哈希表法
-   - [[哈希表的理论基础]](https://www.cnblogs.com/zmk-c/p/14396613.html)
-   - [[leetcode242——有效字母异同位]](https://www.cnblogs.com/zmk-c/p/14398019.html)
-   - [[leetcode383——赎金信]](https://www.cnblogs.com/zmk-c/p/14399460.html)
-   - [[leetcode349_两个数组的交集]](https://www.cnblogs.com/zmk-c/p/14401011.html)
-   - [[leetcode202——快乐数]](https://www.cnblogs.com/zmk-c/p/14403039.html)
-   - [[leetcode1——两数之和]](https://www.cnblogs.com/zmk-c/p/14404271.html)
-   - [[leetcode454——四数相加II]](https://www.cnblogs.com/zmk-c/p/14404279.html)
+   - [[242.有效字母异同位]](https://www.cnblogs.com/zmk-c/p/14398019.html)
+   - [[383.赎金信]](https://www.cnblogs.com/zmk-c/p/14399460.html)
+   - [[349.两个数组的交集]](https://www.cnblogs.com/zmk-c/p/14401011.html)
+   - [[202.快乐数]](https://www.cnblogs.com/zmk-c/p/14403039.html)
+   - [[1.两数之和]](https://www.cnblogs.com/zmk-c/p/14404271.html)
+   - [[454.四数相加II]](https://www.cnblogs.com/zmk-c/p/14404279.html)
 4. 字符串
-   - [[leetcode344——反转字符串（双指针法）]](https://www.cnblogs.com/zmk-c/p/14406933.html)
-   - [[leetcode541——反转字符串II（模拟大法）]](https://www.cnblogs.com/zmk-c/p/14406983.html)
-   - [[leetcode151——翻转字符串里的单词]](https://www.cnblogs.com/zmk-c/p/14407077.html)
+   - [[344.反转字符串]](https://www.cnblogs.com/zmk-c/p/14406933.html)
+   - [[541.反转字符串II]](https://www.cnblogs.com/zmk-c/p/14406983.html)
+   - [[151.翻转字符串里的单词]](https://www.cnblogs.com/zmk-c/p/14407077.html)
    - [[KMP算法]](https://www.cnblogs.com/zmk-c/p/14409513.html)
-   - [[leetcode28——实现strStr()（KMP）]](https://www.cnblogs.com/zmk-c/p/14411448.html)
-   - [[leetcode459——重复的子字符串（KMP）]](https://www.cnblogs.com/zmk-c/p/14416911.html)
+   - [[28.实现strStr()]](https://www.cnblogs.com/zmk-c/p/14411448.html)
+   - [[459.重复的子字符串]](https://www.cnblogs.com/zmk-c/p/14416911.html)
 5. 双指针法
-   - [数组：[leetcode27——移除元素（双指针法）]](https://www.cnblogs.com/zmk-c/p/14370030.html)
-   - [数组：[leetcode209——长度最小的子数组（双指针法）]](https://www.cnblogs.com/zmk-c/p/14373306.html)
-   - [链表：[leetcode206——反转链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14390003.html)
-   - [链表：[leetcode142——环形链表（双指针法）]](https://www.cnblogs.com/zmk-c/p/14393976.html)
-   - [字符串：[leetcode344——反转字符串（双指针法）]](https://www.cnblogs.com/zmk-c/p/14406933.html)
+   - [数组：[27.移除元素]](https://www.cnblogs.com/zmk-c/p/14370030.html)
+   - [数组：[209.长度最小的子数组]](https://www.cnblogs.com/zmk-c/p/14373306.html)
+   - [链表：[206.反转链表]](https://www.cnblogs.com/zmk-c/p/14390003.html)
+   - [链表：[142.环形链表]](https://www.cnblogs.com/zmk-c/p/14393976.html)
+   - [字符串：[344.反转字符串]](https://www.cnblogs.com/zmk-c/p/14406933.html)
 6. 栈和队列
-   - [[leetcode232——用栈实现队列]](https://www.cnblogs.com/zmk-c/p/14440591.html)
-   - [[leetcode225——用队列实现栈]](https://www.cnblogs.com/zmk-c/p/14446040.html)
-   - [[leetcode20——有效的括号]](https://www.cnblogs.com/zmk-c/p/14452110.html)
-   - [[leetcode150——逆波兰表达式求值]](https://www.cnblogs.com/zmk-c/p/14455292.html)
-   - [[leetcode239——滑动窗口最大值]](https://www.cnblogs.com/zmk-c/p/14468283.html)
+   - [[232.用栈实现队列]](https://www.cnblogs.com/zmk-c/p/14440591.html)
+   - [[225.用队列实现栈]](https://www.cnblogs.com/zmk-c/p/14446040.html)
+   - [[20.有效的括号]](https://www.cnblogs.com/zmk-c/p/14452110.html)
+   - [[150.逆波兰表达式求值]](https://www.cnblogs.com/zmk-c/p/14455292.html)
+   - [[239.滑动窗口最大值]](https://www.cnblogs.com/zmk-c/p/14468283.html)
 7. 二叉树
+   - 二叉树的遍历
+     - [[144.二叉树的前序遍历]](https://www.cnblogs.com/zmk-c/p/14492612.html)
+     - [[145.二叉树的后序遍历]](https://www.cnblogs.com/zmk-c/p/14492620.html)
+     - [[94.二叉树的中序遍历]](https://www.cnblogs.com/zmk-c/p/14492634.html)
+     - [[102.二叉树的层次遍历]](https://www.cnblogs.com/zmk-c/p/14583746.html)
+   - 二叉树的属性
+     - [[101.对称二叉树]](https://www.cnblogs.com/zmk-c/p/14583765.html) 
+     - [[104.二叉树的最大深度]](https://www.cnblogs.com/zmk-c/p/14583775.html) 
+     - [[111.二叉树的最小深度]](https://www.cnblogs.com/zmk-c/p/14583770.html) 
+     - [[257.二叉树的所有路径]](https://www.cnblogs.com/zmk-c/p/14583782.html) 
+     - [[112.路径总和]](https://www.cnblogs.com/zmk-c/p/14583784.html) 
+   - 二叉树的修改与构造
+   - 求二叉搜索树的属性
+   - 二叉树公共祖先问题
 8. 回溯
 9. 贪心算法
 10. 动态规划
